@@ -303,7 +303,7 @@ The proposed framework provides a practical solution for deploying segmentation 
 
 ### A. Implementation Details
 
-Complete implementation available at: [GitHub Repository]
+Complete implementation available at: https://github.com/EAName/Segmentation
 
 ### B. Additional Results
 
